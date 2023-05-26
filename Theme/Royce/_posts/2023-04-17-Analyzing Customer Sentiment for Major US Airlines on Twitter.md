@@ -4,8 +4,8 @@ title: 'Analyzing Customer Sentiment for Major US Airlines on Twitter'
 tags: [Airlines, Twitter, Transfer Learning]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2019/al_cover.png
-featured: true
-hidden: true
+# featured: false
+# hidden: true
 ---
 
 ## Introduction
@@ -40,4 +40,4 @@ While some models performed well in predicting customer sentiment accurately, ot
 
 We explored a dataset of tweets about major airlines to perform sentiment analysis. By analyzing the top words and evaluating different models, we gained valuable insights into customer sentiment, which airlines can use to improve their services and enhance customer satisfaction. By continuing to monitor and analyze social media sentiment, airlines can stay ahead of the competition and provide an even better travel experience for their customers.
 
-For more details on the code used in this project, please visit [my GitHub page](https://github.com/yourusername).
+For more details on the code used in this project, please visit [my GitHub page](https://github.com/DataNat/Twitter-Sentiment-US-Airways).

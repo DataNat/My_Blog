@@ -118,4 +118,4 @@ Overall, the model's performance provides confidence that it may be useful in pr
 
 
 
-For the complete code, you can visit my GitHub repository: [provide address]
+For the complete code, you can visit my [GitHub repository](https://github.com/DataNat/General-Twitter-Sentiment-Analysis).

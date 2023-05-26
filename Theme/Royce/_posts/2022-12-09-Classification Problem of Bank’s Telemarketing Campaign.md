@@ -118,8 +118,8 @@ GridSearchCV suggested the following criteria, which produced the following resu
     'model__n_estimators': 900
 }
 ```
-
-### Resutls 
+ç
+ç### Resutls 
 
  ```
 Training_Accuracy: 0.9960036496350365
@@ -143,6 +143,8 @@ In this project, we implemented data analysis and predictive classified models t
 - Pay close attention to socioeconomic data, including the 3 Month Euribor rate and Consumer Confidence Index.
 - Target telemarketing calls toward selecting individuals who belong to a specific age group and occupation. Seniors, Students, and Retired Individuals are more likely to subscribe to a term deposit.
 - Conduct the campaign during specific months. March, September, and October have been shown to have a higher rate of subscriptions.
+
+The complete code can be found on my [GitHub repository](https://github.com/DataNat/Classification-Problem-of-Bank-s-Telemarketing-Campaign).
 
 For more details, you can refer to the complete article and resources:
 

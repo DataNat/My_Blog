@@ -6,11 +6,12 @@ logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'IMG_5081.jpg'
-  greetings: "Hi there! My name is Natalia Edelson. I recently graduated from Flatiron and studied Data Science. In my portfolio, you will find my projects related to exploratory data analysis (EDA), machine learning modeling, deep learning, natural language processing (NLP), and more."
+  greetings: "Hi there! My name is Natalia Edelson. I recently graduated from Flatiron, where I studied Data Science. In my portfolio, you'll find a collection of my projects in exploratory data analysis (EDA), machine learning, deep learning, natural language processing (NLP) and more."
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: https://royce.netlify.com/
-disqus: 'justgoodthemes'
+# post article comment flag
+# disqus: 'justgoodthemes'
 mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
 # Add your GA Tracking Id
 ga_analytics: 

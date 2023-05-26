@@ -125,7 +125,11 @@ SIZE: Prioritize the size of the indoor, living area rather than the size of the
 Gather more data from previous years
 Focus on profitable transactions (buy/ sell) with the new data.
 Create a racking system for the 16 housing features already mentioned above in order to see which are the most influential on house prices.
-Bibliography
+
+The complete code can be found on my [GitHub repository](https://github.com/DataNat/Data-Analysis-Real-Estate-in-King-County-Washington).
+
+
+**Bibliography**
 
 U.S. Federal Housing Finance Agency, All-Transactions House Price Index for King County, WA [ATNHPIUS53033A], retrieved from FRED, FeSderal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/ATNHPIUS53033A, August 3, 2022.
 
