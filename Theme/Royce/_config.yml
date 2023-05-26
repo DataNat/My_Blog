@@ -1,12 +1,12 @@
 # Site setings
-name: 'Royce'
-description: 'Web Developer'
+name: 'Natalia'
+description: 'Data Scientist'
 meta_description: 'Jekyll template, minimal style, perfect for bloggers.'
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
-  image: 'authorimage.jpg'
-  greetings: "Hi there! My name is Natalia. I'm a freelance web developer, author and speaker based in Montreal, Canada. It’s nice to meet you."
+  image: 'IMG_5081.jpg'
+  greetings: "Hi there! My name is Natalia Edelson. I recently graduated from Flatiron and studied Data Science. In my portfolio, you will find my projects related to exploratory data analysis (EDA), machine learning modeling, deep learning, natural language processing (NLP), and more."
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: https://royce.netlify.com/
@@ -16,35 +16,35 @@ mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab160
 ga_analytics: 
 
 # Contact form setings
-email: youremail@email.com
+email: NataliaEdelson@email.com
 contact_page_description: "Horace theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
 thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
 
 # Social links
-twitter: 'justgoodthemes'
-facebook: 'username'
-github: 'justgoodthemes'
-codepen: 'username'
-dribbble: 'username'
+# twitter: 'justgoodthemes'
+# facebook: 'username'
+github: 'DataNat'
+# codepen: 'username'
+# dribbble: 'username'
 medium: '@username'
-instagram: 'username'
-pinterest: 'username'
+# instagram: 'username'
+# pinterest: 'username'
 linkedin: 'username'
-producthunt: '@username'
-quora: 'username'
+# producthunt: '@username'
+# quora: 'username'
 
 # Navigation
 navigation:
-  - text: Home
+  - text: My Projects
     url: /
-  - text: About
-    url: /about
-  - text: Style Guide
-    url: /style-guide
+  # - text: About
+  #   url: /about
+  # - text: Style Guide
+  #   url: /style-guide
   - text: Contact Me
     url: /contact
-  - text: Search
-    url: /search
+  # - text: Search
+  #   url: /search
 
 # Required Plugins
 plugins_dir:
