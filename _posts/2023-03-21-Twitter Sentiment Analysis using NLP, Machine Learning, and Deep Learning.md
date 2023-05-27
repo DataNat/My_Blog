@@ -2,7 +2,6 @@
 layout: post
 title: 'Twitter Sentiment Analysis using Twitter, Machine Learning, and Deep Learning'
 tags: [Twitter, Machine Learning, and Deep Learning']
-tags: [Twitter, Twitter, ]
 featured_image_thumbnail:
 featured_image: /assets/images/posts/2019/cover.png
 featured: true
