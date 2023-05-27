@@ -26,10 +26,10 @@ thankyou_page_description: "Your message has been successfully sent. We will con
 github: 'DataNat'
 # codepen: 'username'
 # dribbble: 'username'
-medium: 'https://medium.com/@nataliagoncharov'
+medium: '@nataliagoncharov'
 # instagram: 'username'
 # pinterest: 'username'
-linkedin: 'https://www.linkedin.com/in/natalia-edelson/'
+linkedin: 'natalia-edelson'
 # producthunt: '@username'
 # quora: 'username'
 
@@ -69,4 +69,4 @@ sass:
   style: compressed
 
 url: DataNat.github.com
-baseurl: /My_Blog
+baseurl: /My_Blog/
