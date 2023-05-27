@@ -30,7 +30,7 @@ fig.show()
 pio.write_image(fig, 'violin_plot_popularity.png')
 
 
- <img src="assets/images/posts/2019/popularity.png" alt="popularity">
+ <img src="/assets/images/posts/2019/popularity.png" alt="popularity">
 
 ### Release Dates
 
@@ -68,7 +68,7 @@ fig.update_layout(
 # Showing the plot
 fig.show()
 
- <img src="assets/images/posts/2019/month.png" alt="Month">
+ <img src="/assets/images/posts/2019/month.png" alt="Month">
 
 ### Genres
 
@@ -96,7 +96,7 @@ fig.update_layout(
 # Showing the plot
 fig.show()
 
- <img src="assets/images/posts/2019/genres.png" alt="Genres">
+ <img src="/assets/images/posts/2019/genres.png" alt="Genres">
 
 ## Predicting Movie Popularity
 
@@ -144,7 +144,7 @@ grid_search_mlp = GridSearchCV(estimator=Kmodel,
 
 The top-performing models in terms of prediction accuracy were Random Forest (Tuned) with an RMSE of 22 and Random Forest with an RMSE of 23. XGBoost followed with an RMSE of 25, while KerasRegressor achieved an RMSE of 26. The OLS-SelectK model demonstrated reasonable prediction accuracy with an RMSE of 28. AdaBoost and MLP models had higher RMSE values of 33 and 34, respectively.
 
-<img src="assets/images/posts/2019/movie_results.png" alt="movie_results">
+<img src="/assets/images/posts/2019/movie_results.png" alt="movie_results">
 
 ## Conclusion
 

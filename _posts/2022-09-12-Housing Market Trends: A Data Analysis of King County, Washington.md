@@ -25,7 +25,7 @@ I calculated the correlation among home prices and various house features. I rem
 
 Figure A.
 
-<img src="assets/images/posts/2018/1_f_1.png" alt="Figure A">
+<img src="/assets/images/posts/2018/1_f_1.png" alt="Figure A">
 
 
 Rumors surrounded an Apple-developed wearable back as far as 2011, which conceptualized the device as a variation of the iPod that would curve around the user’s wrist, and feature Siri integration. On February 10, 2013, both The New York Times and The Wall Street Journal reported that Apple was beginning to develop an iOS-based smartwatch with a curved display. On February 12, 2013, Bloomberg reported that Apple’s smartwatch project was “beyond the experimentation phase in its development”, and had a team of at least 100 designers were working on the project. Further reports in March 2013 indicated that Apple planned to release the device by the end of the year. In July 2013, Financial Times reported that Apple had begun hiring more employees to work on the smartwatch, and that it was targeting a possible retail release in late 2014.
@@ -36,10 +36,10 @@ Square footage is directly related to the price of a house, but only up to a cer
 
 Figure B. Figure C.
 
-<img src="assets/images/posts/2018/sqft_sqft_living.png" alt="Figure B and C">
+<img src="/assets/images/posts/2018/sqft_sqft_living.png" alt="Figure B and C">
 
 Figure D.
-<img src="assets/images/posts/2018/bathrooms.png" alt="Figure D">
+<img src="/assets/images/posts/2018/bathrooms.png" alt="Figure D">
 
 
 As seen in Figure D, certain homes are not affected by the increase of bathrooms while other home prices go up as the number of bathrooms increases.
@@ -54,7 +54,7 @@ House location is assessed based on zip code. Figure E shows which zip codes of 
 
 Figure E
 
-<img src="assets/images/posts/2018/map.png" alt="Figure E">
+<img src="/assets/images/posts/2018/map.png" alt="Figure E">
 
 
 
@@ -66,11 +66,11 @@ In particular, waterfront homes are significantly more valuable than those witho
 
 Figure F
 
-<img src="assets/images/posts/2018/view.png" alt="Figure E">
+<img src="/assets/images/posts/2018/view.png" alt="Figure E">
 
 Figure G
 
-<img src="assets/images/posts/2018/waterfront.png" alt="Figure G">
+<img src="/assets/images/posts/2018/waterfront.png" alt="Figure G">
 
 **Grade**
 
@@ -78,7 +78,7 @@ Grade refers to the quality of the materials and appliances used throughout the 
 
 Figure H
 
-<img src="assets/images/posts/2018/grade.png" alt="Figure H">
+<img src="/assets/images/posts/2018/grade.png" alt="Figure H">
 
 **Seasonality**
 
@@ -87,7 +87,7 @@ In our data, I encountered 45 houses that were resold in 2014 and 2015. The majo
 
 Figure I.
 
-<img src="assets/images/posts/2018/month.png" alt="Figure I">
+<img src="/assets/images/posts/2018/month.png" alt="Figure I">
 
 ### Predicting Prices Using Linear Regression
 
@@ -101,7 +101,7 @@ The test of our model was successful. See below.
 Figure J.
 
 
-<img src="assets/images/posts/2018/ols.png" alt="Figure J">
+<img src="/assets/images/posts/2018/ols.png" alt="Figure J">
 
 
 Training Root Mean Squared Error: $203K

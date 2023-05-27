@@ -59,31 +59,31 @@ We analyzed the data to determine the rate of subscribers per category within ea
 
 Seniors (ages 65 to 98) have a subscription rate three times as much as Older Adults (ages 56–65) and Young adults (ages 17–35). Middle Aged Adults (ages 36–65) have the lowest rate of subscription at 8.65%.
 
-  <img src="assets/images/posts/2019/age.png" alt="Age">
+  <img src="/assets/images/posts/2019/age.png" alt="Age">
 
 ### Occupation
 
 Students and retired individuals were twice or three times more likely to subscribe than any other profession. Unemployed and administration professionals were the next highest group, ranging from 11.3% to 13% rate of subscribers, whereas the rest of the groups were less than 11.31%.
 
- <img src="assets/images/posts/2019/job.png" alt="Job">
+ <img src="/assets/images/posts/2019/job.png" alt="Job">
 
 ### Method of Communication
 
 The rate of subscription for people contacted by cellular phone is 10% higher than for those contacted on a regular phone.
 
- <img src="assets/images/posts/2019/contact.png" alt="Contact">
+ <img src="/assets/images/posts/2019/contact.png" alt="Contact">
 
 ### Building Predictive Models
 
 After data cleaning and exploration, We prepared the data for prediction using the following models: Logistic Regression, Decision Tree, Random Forest, and XGBoost. Since our data is unbalanced, with only 11% of individuals subscribing to a term deposit, we employed the Synthetic Minority Over-Sampling Technique (SMOTE-NC) on our training data. SMOTE-NC helps address the class imbalance by generating synthetic samples for the minority class, improving the performance of our models in predicting term deposit subscriptions.
 
- <img src="assets/images/posts/2019/smote.png" alt="SMOTE">
+ <img src="/assets/images/posts/2019/smote.png" alt="SMOTE">
 
 ### Score and Pipeline Function
 
 We built a function that captures the classified models, trains them, and produces the scoring results (Accuracy, Precious Recall, and F1_Score). We added an “if statement” with a display element to have the option to not display when unnecessary.
 
- <img src="assets/images/posts/2019/split.png" alt="Split">
+ <img src="/assets/images/posts/2019/split.png" alt="Split">
 
 We utilized a pipeline to streamline the necessary steps for data processing before implementing our predictive models. This pipeline was particularly beneficial during the data splitting process, ensuring that information from the training data did not leak into the unseen testing data.
 
@@ -91,7 +91,7 @@ Within the pipeline, we incorporated a function that allowed for looping when em
 
 As the data passed through the pipeline, it underwent the necessary transformations, including StandardScaler() and OneHotEncoder(). The processed data was then used to train the model and generate predictive values for both the testing and training data. Finally, the model scores were calculated based on these predictions.
 
- <img src="assets/images/posts/2019/pipeline.png" alt="Pipeline">
+ <img src="/assets/images/posts/2019/pipeline.png" alt="Pipeline">
 
 ### Hyperparameter Tuning
 
@@ -128,11 +128,11 @@ Precision: 0.8685113598591178
 Recall: 0.8729356906936079
 F1_Score: 0.8706234452833183
 ```
- <img src="assets/images/posts/2019/results.png" alt="Results">
+ <img src="/assets/images/posts/2019/results.png" alt="Results">
 
 The model generated the following features of importance:
 
- <img src="assets/images/posts/2019/features_imp.png" alt="Features_imp">
+ <img src="/assets/images/posts/2019/features_imp.png" alt="Features_imp">
 
 
 
