@@ -27,7 +27,7 @@ We focused on the following columns: Tweets and Target Variables (negative or po
 
 **Wordcloud** can be used to create a visual representation of the most frequently used words and phrases in a given text. We highlighted the keywords used in positive and negative tweets.
 
- <img src="/assets/images/posts/2019/wc.png" alt="WC">
+ <img src="/My_Blog/assets/images/posts/2019/wc.png" alt="WC">
 
 In the positive wordcloud, tweets such as "good", "lol", "nice", "hope", "thank", and "love" were the most frequently used words. This might suggest that many of the positive tweets express positive sentiment, with a focus on feelings of hope, appreciation, and love. On the other hand, the words "want", "wish", "today", "work", "still", and "need" were the most frequent in negative tweets, possibly expressing frustration, dissatisfaction, and unfulfilled needs.
 
@@ -43,7 +43,7 @@ For each model, we used three different vector-type techniques for text represen
 - Vector Count: representing each document as a vector of word frequencies
 - Word2Vec: a neural network-based technique that learns continuous vector representations of words
 
- <img src="/assets/images/posts/2019/twitter_r.png" alt="twitter_r">
+ <img src="/My_Blog/assets/images/posts/2019/twitter_r.png" alt="twitter_r">
 
 ## Deep Learning
 
@@ -93,9 +93,9 @@ Loss: 0.4514560103416443
 
 #### Classification Report
 
- <img src="/assets/images/posts/2019/tva.png" alt="TVA">
+ <img src="/My_Blog/assets/images/posts/2019/tva.png" alt="TVA">
 
-  <img src="/assets/images/posts/2019/tvl.png" alt="TVL">
+  <img src="/My_Blog/assets/images/posts/2019/tvl.png" alt="TVL">
 
 
 ## Training and Validation Accuracy
@@ -104,8 +104,8 @@ We plotted the accuracy and loss values over the epochs of the model training in
 
 As the training accuracy increases, so does the validation accuracy. The same occurs with the training loss graph: the loss decreases, and so does the validation loss. This suggests that the model learns the patterns in the data and adapts to new data. In both graphs, when the epochs pass 6, the training and the validation approach one another. With more than 10 epochs, the model will overfit the training data and not make accurate predictions.
 
- <img src="/assets/images/posts/2019/cp.png" alt="CP">
- <img src="/assets/images/posts/2019/cp.png" alt="CP">
+ <img src="/My_Blog/assets/images/posts/2019/cp.png" alt="CP">
+ <img src="/My_Blog/assets/images/posts/2019/cp.png" alt="CP">
 
 
 

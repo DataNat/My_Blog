@@ -39,7 +39,11 @@
                             {% if page.url == link.url %}
                             {% assign current = 'current-menu-item' %}
                             {% endif %}
-                            <li class="menu-item {{ current }}"><a href="{{ link.url }}">{{ link.text }}</a></li>
+                            <li class="menu-item {{ current }}">
+                                <a href="{{ site.baseurl }}{{ link.url }}">
+                                    {{ link.text}}
+                                </a>
+                            </li>
                             {% endfor %}
                         </ul>
                         {% include social-links.html %}
