@@ -3,7 +3,7 @@ layout: post
 title: 'Analyzing Customer Sentiment for Major US Airlines on Twitter'
 tags: [Airlines, Twitter, Transfer Learning]
 featured_image_thumbnail:
-featured_image: assets/images/posts/2019/al_cover.png
+featured_image: /assets/images/posts/2019/al_cover.png
 # featured: false
 # hidden: true
 ---

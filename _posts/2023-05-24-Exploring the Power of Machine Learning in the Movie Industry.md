@@ -3,7 +3,7 @@ layout: post
 title: 'Exploring the Power of Machine Learning in the Movie Industry'
 tags: [Startups, JavaScript]
 featured_image_thumbnail:
-featured_image: assets/images/posts/2019/movie_cover.png
+featured_image: /assets/images/posts/2019/movie_cover.png
 featured: true
 hidden: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: 'Classification Problem of Bank’s Telemarketing Campaign'
 tags: [Classification, Machine Learning, SMOTE]
 featured_image_thumbnail:
-featured_image: assets/images/posts/2019/cover.jpeg
+featured_image: /assets/images/posts/2019/cover.jpeg
 featured: true
 hidden: true
 ---
