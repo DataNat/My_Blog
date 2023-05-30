@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Housing Market Trends: A Data Analysis of King County, Washington"
-tags: [ Real Estate ]
+tags: [Real Estate, Regression]
 featured_image_thumbnail:
 featured_image: /assets/images/posts/2018/12.jpg
 ---

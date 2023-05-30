@@ -6,7 +6,7 @@ logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'IMG_5081.jpg'
-  greetings: "Hi there! My name is Natalia Edelson. I recently graduated from Flatiron, where I studied Data Science. In my portfolio, you'll find a collection of my projects in exploratory data analysis (EDA), machine learning, deep learning, natural language processing (NLP) and more."
+  greetings: "Hi there! My name is Natalia Edelson. I recently graduated from Flatiron School, where I studied Data Science. In my portfolio, you'll find a collection of my projects in exploratory data analysis (EDA), machine learning, deep learning, natural language processing (NLP) and more."
 favicon: 'assets/images/favicon.ico'
 production_url: https://royce.netlify.com/
 # post article comment flag
